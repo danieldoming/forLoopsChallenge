@@ -37,9 +37,10 @@ public class forLoopsChallenge
 					totalSum += lowerBound;
 			
 				}
-				System.out.println(totalSum);
+				System.out.println(totalSum + "lol what");
 				
 			}
+			// hello hello hello, what the heck is up red rocks
 
 		}
 
